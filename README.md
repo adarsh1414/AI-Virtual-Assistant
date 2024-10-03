@@ -1,1 +1,1 @@
-# AI-Virtual-Assistant
+Designed and developed an AI virtual assistant for natural language processing, task automation, and personalized recommendations. Integrated features such as voice interaction, scheduling, and information retrieval to enhance user productivity and efficiency.
